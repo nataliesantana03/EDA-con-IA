@@ -11,8 +11,9 @@ Tecnologías y Herramientas
 4. TfidfVectorizer
 5. LogisticRegression
 6. Streamlit 
-7. Pickle 
-8. Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140
+7. Pickle
+8. CSS 
+9. Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140
 
 Cómo funciona
 
@@ -23,4 +24,6 @@ Cómo funciona
    - Escribir su tweet 
    - Obtener una predicción instantánea 
    - Ver una razón explicativa del resultado 
-   - Y compartirlo directamente en la red social X 
+   - Y compartirlo directamente en la red social X
+
+nota: Desafortunadamente no puede gargar el Data ya que pesa mucho y luego no podia subir el proyecto pero mas arriba deje el link de descarga por si llegase a ser util en algun momento.
